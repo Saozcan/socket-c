@@ -5,7 +5,7 @@
 #include <unistd.h>
 using namespace std;
 
-const char* IP_ADDRESS = "161.35.66.15";
+const char* IP_ADDRESS = "127.0.0.1";
 const int PORT = 8080;
 
 int main() {

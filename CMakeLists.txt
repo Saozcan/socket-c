@@ -4,4 +4,4 @@ project(irc)
 set(CMAKE_CXX_STANDARD 14)
 
 add_executable(irc
-        main.cpp)
+        main.cpp differentIPClient.cpp server.cpp)
